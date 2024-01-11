@@ -1,0 +1,5 @@
+Vue:
+
+1 - npm install --legacy-peer-deps
+2 - npm run dev
+3 - npm run watch (if node error run (export NODE_OPTIONS=--openssl-legacy-provider))
